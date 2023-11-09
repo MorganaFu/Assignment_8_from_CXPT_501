@@ -1,0 +1,1 @@
+The scatterplot reflects relation of datapoints between Diastolic Blood Pressure (mmHg) and BMI, also categorized by race(white population and non-white population); The boxplot_and_stripplot reflects the ejection fraction based on different efection methods.

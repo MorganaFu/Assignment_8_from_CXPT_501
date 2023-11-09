@@ -1,0 +1,1 @@
+The result folder has two csv files: 'probabilityMatrix.csv' and 'confusionMatrixMetrics.csv'. The probabilityMatrix investigates whether patients with a history of Hypertension (HYPERTEN) are likely to have been hospitalized due to Worsening Heart Failure(WHF). The confusionMatrix was empty due to lacking of gold standard.
